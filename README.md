@@ -1,9 +1,3 @@
-<h1 align="center">Hi there, I'm Omar 👋</h1>
-
-🧠 Data science student at FCDS 
-⚡ I create data driven solutions and stay consistent
-🙌 Come and connect with with me so that we can colaborate (https://www.linkedin.com/in/omar-lila-6069411b0/)
-
 # 💫 About Me:
 Hi there, I'm Omar 👋<br><br>🧠 Data science student at FCDS <br>⚡ I create data driven solutions and stay consistent<br>🙌 Come and connect with with me so that we can colaborate (https://www.linkedin.com/in/omar-lila-6069411b0/)
 
