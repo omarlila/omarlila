@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Omar 👋<br><br>🧠 Data science student at FCDS <br>⚡ I create data driven solutions and stay consistent<br>🙌 Come and connect with with me so that we can colaborate (https://www.linkedin.com/in/omar-lila-6069411b0/)
+Hi there, I'm Omar 👋<br><br>🧠 Data science student at FCDS <br>⚡ I create data driven solutions and stay consistent<br>🙌 Come and connect with with me so that we can colaborate
 
 
 ## 🌐 Socials:
